@@ -1,2 +1,3 @@
-/.venv
-/matrix_req_crawler.egg-info
+.venv
+
+**.egg-info
